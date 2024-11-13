@@ -21,17 +21,6 @@ env/
 *.sublime-project
 *.sublime-workspace
 
-# Distribuição
-dist/
-build/
-*.egg-info/
-
-# Executáveis gerados pelo PyInstaller
-*.exe
-*.dll
-*.so
-*.dylib
-
 # Arquivos de ambiente
 .env
 .venv

@@ -143,3 +143,6 @@ Após a conclusão do processo, o executável será gerado na pasta `dist`:
 
 ### **4. Executar o Aplicativo**
 Navegue até a pasta `dist` e execute `main.exe` para iniciar o aplicativo sem necessidade de ambiente Python.
+
+### **Video no Youtube**
+<https://www.youtube.com/watch?v=m1KTEIP453g>
